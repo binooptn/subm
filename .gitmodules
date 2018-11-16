@@ -1,0 +1,6 @@
+[submodule "dagda"]
+	path = dagda
+	url = https://github.com/eliasgranderubio/dagda
+[submodule "excercise"]
+	path = excercise
+	url = git@github.com:binoopnanu/excercise.git
